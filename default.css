@@ -88,10 +88,12 @@ body * {
   background-color: var(--secondaryColor);
   border-bottom: 1px solid var(--borderColor);
   overflow: auto;
+  height: 100%;
 }
 
 .main-container {
   width: 1200px;
+  position: relative;
   margin: 0 auto;
 }
 
