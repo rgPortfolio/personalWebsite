@@ -291,6 +291,7 @@ body * {
 
 #skills {
   display: flex;
+  max-width: 75%;
   justify-content: space-evenly;
   background-color: var(--previewShadow);
 }
